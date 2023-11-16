@@ -1,16 +1,40 @@
-### Hi there 👋
+Hello there 👋 My name is Gabriel Ninow
+==============================
 
-<!--
-**GabrielNinow/GabrielNinow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer and QA analist
+----------------------------
 
-Here are some ideas to get you started:
+I am a Software Development student, also worked as QA analist automating test Web and Mobile. More about my experience: 
+## Web Development: 
+<ul>
+  <li>C#</li>
+  <li>Asp.net</li>
+  <li>Javascript</li>
+  <li>Node.js</li>
+  <li>React.js</li>
+  <li>Angular</li>
+  <li>Mysql</li>
+</ul>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quality Assurance Tools:
+<ul>
+  <li>Appium</li>
+  <li>Selenium</li>
+  <li>Cypress</li>
+  <li> Robot Framework</li>
+  <li>IOS and Android</li>
+  <li>Web and Desktop(Windows)</li>
+</ul>
+
+## Other: 
+<ul>
+  <li>Git/Github </li>
+  <li>Docker</li>
+  <li>Jira</li>
+</ul>  
+
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/GabrielNinow" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/gabriel-ninow" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>

@@ -1,37 +1,46 @@
-Hello there 👋 My name is Gabriel Ninow
+Hi there 👋 My name is Gabriel Ninow
 ==============================
 
-Web Developer and QA analist
+Quality Assurance Analyst
 ----------------------------
-
-I am a Software Development student, also worked as QA analist automating test Web and Mobile. More about my experience: 
-## Web Development: 
-<ul>
-  <li>C#</li>
-  <li>Asp.net</li>
-  <li>Javascript</li>
-  <li>Node.js</li>
-  <li>React.js</li>
-  <li>Angular</li>
-  <li>Mysql</li>
-</ul>  
+I am a QA engineer focused on mobile, but i work with web too, testing both, manually and creating automation
+Tools that i have experience:
 
 ## Quality Assurance Tools:
 <ul>
   <li>Appium</li>
   <li>Selenium</li>
   <li>Cypress</li>
-  <li> Robot Framework</li>
   <li>IOS and Android</li>
   <li>Web and Desktop(Windows)</li>
 </ul>
 
-## Other: 
+## Other tools: 
 <ul>
   <li>Git/Github </li>
   <li>Docker</li>
   <li>Jira</li>
 </ul>  
+
+Other experiences
+----------------------------
+I already worked as Web developer fullstack, focused in Front-End development
+there are some tools i used to work:
+
+## Web Development: 
+<ul>
+  <li>Node</li>
+  <li>Mysql</li>
+  <li>MongoDB</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>Angular</li>
+</ul>  
+
+
+
+
 
 
 

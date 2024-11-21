@@ -4,7 +4,6 @@ Hi there 👋 My name is Gabriel Ninow
 Quality Assurance Analyst
 ----------------------------
 I am a QA engineer focused on mobile, but i work with web too, testing both, manually and creating automation
-Tools that i have experience:
 
 ## Quality Assurance Tools:
 <ul>
